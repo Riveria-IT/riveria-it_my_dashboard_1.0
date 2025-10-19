@@ -280,4 +280,11 @@ tar czf dashboard-backup-$(date +%F).tar.gz /var/www/html/api/data
 
 ---
 
+Was kommen wird: 
+
+ - Kachelns verschieben können.
+ - Kategorieren erstellen z.B Social Media, Servern, Webseiten usw.
+ - Mobile optimierung mit  z.B Menü-Burger 
+
+
 > 💬 *Made with ❤️ by Riveria IT – Switzerland*
